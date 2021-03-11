@@ -9,8 +9,6 @@
 
 This is an assignemt by Crest data systems, shows a demo of notifications
 
-**_Note:_** Copy the `.env.example` file and rename it to `.env`, then replace it with the required variables and then run the project.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
